@@ -2,6 +2,7 @@
 
 
 Analysis Summary
+
 From the visualizations, we can infer the following insights:
 
 Geographical Insights:
@@ -18,5 +19,7 @@ A significant proportion of buyers are employed in the IT, Healthcare, and Aviat
 
 
 Conclusion
+
+
 Married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors, are more likely to purchase products in the Food, Clothing, and Electronics categories.
 
